@@ -10,7 +10,6 @@ import static com.codeborne.selenide.Selenide.open;
 import static data.DataHelper.*;
 
 
-
 public class MoneyTransferTest {
 
     DashboardPage dashboardPage;
